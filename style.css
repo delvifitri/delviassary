@@ -13,6 +13,10 @@ object-fit: cover;
 object-position: top;
 }
 
+.about{
+  text-align: center;
+}
+
 #Pendidikan {  
   background-color: rgb(177, 205, 230);
 }
